@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="all_groups" label="all groups" language="en" table="x_357091_userschec_userscheckin_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>all_groups</element>
+            <help/>
+            <hint/>
+            <label>all groups</label>
+            <language>en</language>
+            <name>x_357091_userschec_userscheckin_table</name>
+            <plural>all groups</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-25 07:51:44</sys_created_on>
+            <sys_id>3af1a866db400010e41de9c948961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>all groups</sys_name>
+            <sys_package display_value="userscheckIn" source="x_357091_userschec">0b912826db400010e41de9c948961922</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="userscheckIn">0b912826db400010e41de9c948961922</sys_scope>
+            <sys_update_name>sys_documentation_x_357091_userschec_userscheckin_table_all_groups_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-25 07:51:44</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
