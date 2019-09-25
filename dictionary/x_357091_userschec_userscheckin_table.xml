@@ -2,6 +2,7 @@
     <element label="userscheckIn Table" max_length="40" name="x_357091_userschec_userscheckin_table" type="collection">
         <element label="all groups" max_length="32" name="all_groups" reference="sys_user_group" type="reference"/>
         <element label="All users" max_length="32" name="all_users" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Short description" max_length="40" name="short_description" type="string"/>
         <index name="index">
             <element name="all_users"/>
         </index>
